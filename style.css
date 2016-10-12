@@ -1,0 +1,9 @@
+#bot-name {
+  color: blue;
+  font-size: 40px;
+  text-align: center;
+}
+
+#bot-output {
+  position: relative;
+}
